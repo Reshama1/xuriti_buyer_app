@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "478927646400",
+    "project_id": "xuriti-buyer-app",
+    "storage_bucket": "xuriti-buyer-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478927646400:android:ed7d73592e1a9af6d0c725",
+        "android_client_info": {
+          "package_name": "com.xuriti.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478927646400-aogoqpscpoal1gqlm95abc60rfbeg7nt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xuriti.app",
+            "certificate_hash": "1a646cebd137c3c8861c869e1e3f1817e352847c"
+          }
+        },
+        {
+          "client_id": "478927646400-6fcri1tek2t3ok253leo2j9u9mdbpt2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClD4cb-CtBR-BiebvKjurSWTnPLSJCywc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478927646400-4ivlap3vdku8p6gtv8b5027u2r2l2sqj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "478927646400-9njmjed4djm0h8ipgdj3u60lbm14hrjf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "xuritiapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
